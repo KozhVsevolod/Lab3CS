@@ -1,5 +1,5 @@
 #!/bin/bash
-path='/home/grid/testbed/tb041/Yavkin/lab3/'
+path='/home/grid/testbed/tb050/Lab3/'
 cd $path
                                                                                                                                             
 flagsForCmplrOptmztion=(O0 O1 O2 O3 Os Ofast)
